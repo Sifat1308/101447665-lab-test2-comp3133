@@ -1,5 +1,5 @@
 {
-  "name": "1014-lab-test2-comp3133",
+  "name": "101447665-lab-test2-comp3133",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -17,8 +17,8 @@
     "@angular/platform-browser": "^19.2.0",
     "@angular/platform-browser-dynamic": "^19.2.0",
     "@angular/router": "^19.2.0",
-    "1014-lab-test2-comp3133": "file:",
     "101422675-lab-test2-comp3133": "file:",
+    "101447665-lab-test2-comp3133": "file:",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.15.0"
